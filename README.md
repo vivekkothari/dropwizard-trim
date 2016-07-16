@@ -2,7 +2,7 @@
 This bundle trims config values of dropwizard YAML config file.
 
 ## Usage
-This makes it easier perform rolling deployments & maintenance of dropwizard applications
+This makes it easier to make the application not break due to manual errors when sleepy DevOps adds a space to a config value
 
 ### Build instructions
   - Clone the source:
