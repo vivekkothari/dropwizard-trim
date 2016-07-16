@@ -19,7 +19,7 @@ This makes it easier perform rolling deployments & maintenance of dropwizard app
 <dependency>
     <groupId>com.github.vivekkothari</groupId>
     <artifactId>dropwizard-trim</artifactId>
-    <version>1.0.0-rc4-SNAPSHOT</version>
+    <version>1.0.0-rc4</version>
 </dependency>
 ```
 

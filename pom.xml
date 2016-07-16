@@ -6,7 +6,8 @@
 
     <groupId>com.github.vivekkothari</groupId>
     <artifactId>dropwizard-trim</artifactId>
-    <version>1.0.0-rc4-SNAPSHOT</version>
+    <name>dropwizard-trim</name>
+    <version>1.0.0-rc4</version>
     <description>A dropwizard bundle which trims config values.</description>
     <url>https://github.com/vivekkothari/dropwizard-trim</url>
 
