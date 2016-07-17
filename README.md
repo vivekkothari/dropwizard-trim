@@ -1,4 +1,4 @@
-# dropwizard-trim
+# dropwizard-trim [![Build Status](https://travis-ci.org/vivekkothari/dropwizard-trim.svg?branch=master)](https://travis-ci.org/vivekkothari/dropwizard-trim)
 This bundle trims config values of dropwizard YAML config file.
 
 ## Usage
