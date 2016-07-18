@@ -25,6 +25,10 @@
         </developer>
     </developers>
 
+    <ciManagement>
+        <system>Travis CI</system>
+        <url>https://travis-ci.org/vivekkothari/dropwizard-trim</url>
+    </ciManagement>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -83,7 +87,6 @@
                 <configuration>
                     <format>xml</format>
                     <maxmem>256m</maxmem>
-                    <!-- aggregated reports for multi-module projects -->
                     <aggregate>true</aggregate>
                     <check/>
                 </configuration>
