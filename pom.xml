@@ -7,7 +7,7 @@
     <groupId>com.github.vivekkothari</groupId>
     <artifactId>dropwizard-trim</artifactId>
     <name>dropwizard-trim</name>
-    <version>1.0.0-rc4</version>
+    <version>1.2.4</version>
     <description>A dropwizard bundle which trims config values.</description>
     <url>https://github.com/vivekkothari/dropwizard-trim</url>
 
@@ -32,7 +32,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <dropwizard.version>1.0.0-rc4</dropwizard.version>
+        <dropwizard.version>1.2.4</dropwizard.version>
     </properties>
 
     <dependencies>

@@ -20,7 +20,7 @@ This makes it easier to make the application not break due to manual errors when
 <dependency>
     <groupId>com.github.vivekkothari</groupId>
     <artifactId>dropwizard-trim</artifactId>
-    <version>1.0.0-rc4</version>
+    <version>1.2.4</version>
 </dependency>
 ```
 
