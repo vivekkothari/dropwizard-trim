@@ -5,12 +5,12 @@
     <groupId>com.github.vivekkothari</groupId>
     <artifactId>dropwizard-trim</artifactId>
     <name>dropwizard-trim</name>
-    <version>2.0.17</version>
+    <version>2.0.18-SNAPSHOT</version>
     <description>A dropwizard bundle which trims config values.</description>
     <url>https://github.com/vivekkothari/dropwizard-trim</url>
 
     <scm>
-        <tag>dropwizard-trim-2.0.17</tag>
+        <tag>master</tag>
         <url>git@github.com:vivekkothari/dropwizard-trim.git</url>
         <connection>scm:git:git@github.com:vivekkothari/dropwizard-trim.git</connection>
         <developerConnection>scm:git:git@github.com:vivekkothari/dropwizard-trim.git</developerConnection>
